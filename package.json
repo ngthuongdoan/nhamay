@@ -11,9 +11,9 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "@mantine/core": "latest",
-    "@mantine/hooks": "latest",
-    "@mantine/next": "latest",
+    "@mantine/core": "^6.0.21",
+    "@mantine/hooks": "^6.0.21",
+    "@mantine/next": "^6.0.21",
     "@supabase/supabase-js": "latest",
     "zustand": "latest"
   },
